@@ -1,0 +1,12 @@
+.scoreboard-container,
+.hamster-container {
+    border: #f6f6 solid 1px;
+    width: 20%;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 1em;
+    justify-content: center;
+    align-items: center;
+}
